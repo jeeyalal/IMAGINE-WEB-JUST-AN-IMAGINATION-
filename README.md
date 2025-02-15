@@ -6,13 +6,13 @@ A small and simple UI/UX demo reimagining the Campus Shoes brand. This project i
 
 - Modern and minimal UI design
 - Improved user experience for browsing products
-- Aesthetic redesign inspired by the Campus Shoes brand
+- Redesign inspired by the Campus Shoes brand
 
 ## 🛠️ Technologies Used
 
 - HTML
 - CSS
-- JavaScript (if applicable)
+- JavaScript 
 
 ## 📂 Project Structure
 
